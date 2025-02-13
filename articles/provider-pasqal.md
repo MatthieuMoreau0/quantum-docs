@@ -98,9 +98,5 @@ To see the PASQAL billing plan, visit [Azure Quantum pricing](xref:microsoft.qua
 
 ## Limits and quotas
 
-PASQAL quotas are tracked based on the usage of the Emu-TN emulator. Quotas depend on the plan you are using:
+PASQAL quotas apply on the usage of the emulator and QPU and can be increased with a support ticket. To see your current limits and quotas, go to the **Credits and quotas** blade and select the **Quotas** tab of your workspace on the [Azure portal](https://portal.azure.com). For more information, see [Azure Quantum quotas](xref:microsoft.quantum.quotas).
 
-- Azure Quantum Credits plan: up to 20 hours
-- Pay-as-you-go plan: up to 100 hours
-
-The quotas are only applied to the Emu-TN emulator. There are no quotas for the Fresnel QPU.
